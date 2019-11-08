@@ -1,0 +1,10 @@
+{
+    "env": {
+        "MONGODB_USER_NAME": "user name",
+        "MONGODB_PASSWORD": "password",
+        "MONGODB_NAME": "BD name",
+        "MONGODB_SERVER": "localhost:27017",
+        "JWT_KEY": "Token secret key",
+        "PORT": "4000"
+    }
+}
